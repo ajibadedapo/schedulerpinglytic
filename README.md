@@ -1,4 +1,4 @@
-# Template for Python Script hosted on Heroku
+# Pinglytic Scheduler Python Script hosted on Heroku
 
 This is small example of running your own bots with [Heroku](https://www.heroku.com/).
 You can run ANY python script with ANY dependaries.
