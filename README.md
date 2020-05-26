@@ -73,7 +73,7 @@ You can run ANY python script with ANY dependaries.
 
 ## Authors
 
-* @michaelkrukov - http://michaelkrukov.ru/
+* @aj_dapo - http://balimec.com
 
 ## License
 
